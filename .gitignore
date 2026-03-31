@@ -1,0 +1,11 @@
+# Backups et cache
+*backup*
+*bak*
+*.log
+.cache/
+
+# Secrets
+*secret*
+*token*
+*password*
+*credentials*
